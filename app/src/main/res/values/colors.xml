@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0367B6</color>
+    <color name="colorPrimaryDark">#004085</color>
+    <color name="colorAccent">#B90000</color>
+    <color name="colorDarkRed">#B90000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorText">#000000</color>
+    <color name="colorCircle">#557DF5</color>
+    <color name="colorButton">#9950AEFA</color>
+    <color name="transparent">#00000000</color>
+    <color name="ic_filter_background">#204FBB</color>
+    <color name="ic_circle_room_background">#FFFFFF</color>
+    <color name="ic_add_white_background">#A70000</color>
+</resources>
