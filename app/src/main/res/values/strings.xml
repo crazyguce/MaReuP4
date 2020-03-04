@@ -50,15 +50,15 @@
     <string name="fragment_right">RIGHT</string>
 
 
-    <string name="s_color_room1">#F44336</string>
-    <string name="s_color_room2">#F57555</string>
-    <string name="s_color_room3">#FFC107</string>
-    <string name="s_color_room4">#4CAF50</string>
-    <string name="s_color_room5">#009688</string>
-    <string name="s_color_room6">#03A9F4</string>
-    <string name="s_color_room7">#0F132E</string>
-    <string name="s_color_room8">#673AB7</string>
-    <string name="s_color_room9">#9C27B0</string>
-    <string name="s_color_room10">#E91E63</string>
+    <string name="s_color_room1">#8900B2</string>
+    <string name="s_color_room2">#DCFE00</string>
+    <string name="s_color_room3">#5E0E10</string>
+    <string name="s_color_room4">#FE0009</string>
+    <string name="s_color_room5">#FEFDFD</string>
+    <string name="s_color_room6">#40A497</string>
+    <string name="s_color_room7">#2A0001</string>
+    <string name="s_color_room8">#083E05</string>
+    <string name="s_color_room9">#000100</string>
+    <string name="s_color_room10">#078F1A</string>
 
 </resources>

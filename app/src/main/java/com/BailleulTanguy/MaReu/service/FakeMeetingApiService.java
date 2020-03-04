@@ -61,16 +61,16 @@ public class FakeMeetingApiService implements MeetingApiService {
     public void initializeRooms(Context pContext) {
 
         mRooms = new ArrayList<>(Arrays.asList(
-                new Room ("ARES", Color.parseColor(pContext.getString(R.string.s_color_room1))),
-                new Room ("ATHENA", Color.parseColor(pContext.getString(R.string.s_color_room2))),
-                new Room ("CRONOS", Color.parseColor(pContext.getString(R.string.s_color_room3))),
-                new Room ("DEMETER", Color.parseColor(pContext.getString(R.string.s_color_room4))),
-                new Room ("GAIA", Color.parseColor(pContext.getString(R.string.s_color_room5))),
-                new Room ("HADES", Color.parseColor(pContext.getString(R.string.s_color_room6))),
-                new Room ("PLUTON", Color.parseColor(pContext.getString(R.string.s_color_room7))),
-                new Room ("POSEIDON", Color.parseColor(pContext.getString(R.string.s_color_room8))),
-                new Room ("VENUS", Color.parseColor(pContext.getString(R.string.s_color_room9))),
-                new Room ("ZEUS", Color.parseColor(pContext.getString(R.string.s_color_room10)))
+                new Room ("JOKER", Color.parseColor(pContext.getString(R.string.s_color_room1))),
+                new Room ("SIMPSON", Color.parseColor(pContext.getString(R.string.s_color_room2))),
+                new Room ("POTTER", Color.parseColor(pContext.getString(R.string.s_color_room3))),
+                new Room ("KRATOS", Color.parseColor(pContext.getString(R.string.s_color_room4))),
+                new Room ("DOC", Color.parseColor(pContext.getString(R.string.s_color_room5))),
+                new Room ("MARTY", Color.parseColor(pContext.getString(R.string.s_color_room6))),
+                new Room ("SPIDEY", Color.parseColor(pContext.getString(R.string.s_color_room7))),
+                new Room ("CROFT", Color.parseColor(pContext.getString(R.string.s_color_room8))),
+                new Room ("SPAROW", Color.parseColor(pContext.getString(R.string.s_color_room9))),
+                new Room ("MORPHEUS", Color.parseColor(pContext.getString(R.string.s_color_room10)))
         )) ;
     }
 
