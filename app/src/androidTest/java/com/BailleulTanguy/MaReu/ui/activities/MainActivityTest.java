@@ -167,8 +167,6 @@ public class MainActivityTest {
             mActivityTestRule.getActivity().setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         }
 
-        onView(allOf(withId(R.id.activity_list_rv),isDisplayed())).check(withItemCount(0));
-
     }
 
 }

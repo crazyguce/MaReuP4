@@ -147,14 +147,13 @@ public class AddFragment extends BaseFragment implements View.OnClickListener, V
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        mDateCal = Calendar.getInstance();
     }
 
     /**
      * OnClick du champs meeting_date_et : affiche la boîte de dialogue calendrier
      */
     private void displayCalendarDialog () {
-        Calendar lCalendar = mDateCal;
+        Calendar lCalendar = Calendar.getInstance();
 
         DatePickerDialog lDatePickerDialog = new DatePickerDialog(
                 mContext,
