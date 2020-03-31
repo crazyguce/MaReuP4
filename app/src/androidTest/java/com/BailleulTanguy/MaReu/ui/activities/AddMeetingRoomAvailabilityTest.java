@@ -31,9 +31,7 @@ import static org.hamcrest.Matchers.notNullValue;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertThat;
 
-/**
- * Created by Florence LE BOURNOT on 26/02/2020
- */
+
 public class AddMeetingRoomAvailabilityTest {
     private MeetingApiService mApi = null;
     private MainActivity mActivity = null;

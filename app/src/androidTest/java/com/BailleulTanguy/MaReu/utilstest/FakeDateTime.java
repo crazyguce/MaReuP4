@@ -5,9 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Locale;
 
-/**
- * Created by Florence LE BOURNOT on 25/02/2020
- */
+
 public class FakeDateTime {
 
 

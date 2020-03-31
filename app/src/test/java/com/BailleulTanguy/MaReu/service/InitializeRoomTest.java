@@ -12,9 +12,6 @@ import org.mockito.Mock;
 import static org.junit.Assert.assertEquals;
 import static org.mockito.MockitoAnnotations.initMocks;
 
-/**
- * Created by Florence LE BOURNOT on 18/02/2020
- */
 public class InitializeRoomTest {
 
     private MeetingApiService mApi;

@@ -51,17 +51,7 @@ public class MeetingRecyclerViewAdapter extends RecyclerView.Adapter<MeetingRecy
      */
     public MeetingRecyclerViewAdapter(Context pContext, Enum pOrder) {
         mContext = pContext;
-        //Test et chargement uniquement pour les tests de la soutenance/demo
-/*
-        if (!sApiService.getIsExecutedOneTimeForTest()) {
-            try {
-                sApiService.addFakeValidMeetingsLongList();
-            } catch (MeetingApiServiceException pE) {
-                pE.printStackTrace();
-            }
-            sApiService.setIsExecutedOneTimeForTest(true);
-        }
-*/
+
         SortOrFilter lSortOrFilter = new SortOrFilter();
 
         mMeetings = sApiService.getMeetings();

@@ -56,9 +56,8 @@ import static org.hamcrest.core.AllOf.allOf;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertThat;
 
-/**
- * Created by Florence LE BOURNOT on 26/02/2020
- */
+
+
 public class AddMeetingTest {
     private MeetingApiService mApi = null;
     private MainActivity mActivity = null;

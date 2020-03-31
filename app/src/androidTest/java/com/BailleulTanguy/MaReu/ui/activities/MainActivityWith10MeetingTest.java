@@ -47,9 +47,6 @@ import static org.hamcrest.core.AllOf.allOf;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertThat;
 
-/**
- * Created by Florence LE BOURNOT on 24/02/2020
- */
 @RunWith(AndroidJUnit4.class)
 public class MainActivityWith10MeetingTest {
 

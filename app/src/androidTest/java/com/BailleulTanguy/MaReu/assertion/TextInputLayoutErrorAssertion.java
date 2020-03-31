@@ -11,9 +11,6 @@ import java.util.Objects;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created by Florence LE BOURNOT on 25/02/2020
- */
 public class TextInputLayoutErrorAssertion implements ViewAssertion {
 
     private final String mExpectedText;

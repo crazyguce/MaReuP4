@@ -21,10 +21,6 @@ import static org.junit.Assert.assertTrue;
 import static org.mockito.Mockito.when;
 import static org.mockito.MockitoAnnotations.initMocks;
 
-/**
- * Created by Florence LE BOURNOT on 20/02/2020
- */
-
 public class ValidationTest {
 
     private String mReturn;

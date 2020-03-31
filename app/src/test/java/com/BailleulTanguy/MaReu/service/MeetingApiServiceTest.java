@@ -29,10 +29,6 @@ import static org.junit.Assert.assertTrue;
 import static org.mockito.MockitoAnnotations.initMocks;
 
 
-/**
- * Created by Florence LE BOURNOT on 18/02/2020
- */
-
 public class MeetingApiServiceTest {
 
     private MeetingApiService mApi;

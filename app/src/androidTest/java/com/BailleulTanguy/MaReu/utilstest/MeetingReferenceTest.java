@@ -10,9 +10,6 @@ import com.BailleulTanguy.MaReu.service.MeetingApiServiceException;
 import java.util.Arrays;
 import java.util.Calendar;
 
-/**
- * Created by Florence LE BOURNOT on 26/02/2020
- */
 public class MeetingReferenceTest {
 
    public static MeetingApiService addReferenceMeeting(MeetingApiService mApi,

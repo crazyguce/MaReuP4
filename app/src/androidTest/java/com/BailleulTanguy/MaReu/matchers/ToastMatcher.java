@@ -8,10 +8,6 @@ import androidx.test.espresso.Root;
 import org.hamcrest.Description;
 import org.hamcrest.TypeSafeMatcher;
 
-/**
- * Created by Florence LE BOURNOT on 23/02/2020
- */
-
 public class ToastMatcher extends TypeSafeMatcher<Root> {
 
     @Override

@@ -28,9 +28,6 @@ import static androidx.test.espresso.matcher.ViewMatchers.withText;
 import static com.BailleulTanguy.MaReu.utilstest.IsScreenSw600dp.sIsScreenSw600dp;
 import static org.hamcrest.core.AllOf.allOf;
 
-/**
- * Created by Florence LE BOURNOT on 25/02/2020
- */
 public class InsertGraphicData {
 
 

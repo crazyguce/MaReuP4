@@ -9,9 +9,6 @@ import com.google.android.material.chip.ChipGroup;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created by Florence LE BOURNOT on 25/02/2020
- */
 public class ChipGroupNoAssertion implements ViewAssertion {
 
     public static ChipGroupNoAssertion matchesChipGroupEmpty() {

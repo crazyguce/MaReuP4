@@ -15,9 +15,6 @@ import static com.BailleulTanguy.MaReu.service.FakeMeetingApiService.CST_FORMAT_
 import static com.BailleulTanguy.MaReu.service.FakeMeetingApiService.CST_FORMAT_DATE_TIME;
 import static com.BailleulTanguy.MaReu.utils.DateConverter.convertDateTimeStringToCalendar;
 
-/**
- * Created by Florence LE BOURNOT on 18/02/2020
- */
 public class MeetingUtils {
 
     public static Meeting generate1Meeting() {

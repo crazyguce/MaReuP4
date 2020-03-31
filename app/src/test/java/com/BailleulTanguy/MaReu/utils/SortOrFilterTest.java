@@ -24,9 +24,6 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.mockito.MockitoAnnotations.initMocks;
 
-/**
- * Created by Florence LE BOURNOT on 19/02/2020
- */
 public class SortOrFilterTest {
 
     private MeetingApiService mApi;

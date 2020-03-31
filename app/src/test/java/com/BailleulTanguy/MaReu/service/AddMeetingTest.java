@@ -32,9 +32,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.mockito.Mockito.when;
 import static org.mockito.MockitoAnnotations.initMocks;
 
-/**
- * Created by Florence LE BOURNOT on 20/02/2020
- */
+
 @Tag("MeetingApiServiceAddMeeting")
 //Meeting = new meeting; reference = reference meeting
 public class AddMeetingTest {
